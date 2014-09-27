@@ -1,0 +1,9 @@
+.album {
+  width: 300px;
+  border: 20px solid #FFF;
+  margin: 20px;
+}
+
+.album img {
+  width: 100%;
+}
